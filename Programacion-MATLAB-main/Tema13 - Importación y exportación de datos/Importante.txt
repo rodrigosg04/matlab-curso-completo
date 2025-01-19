@@ -1,0 +1,26 @@
+**** Los archivos de datos auxiliares fueron obtenidos de diferentes fuentes. A continuación se adjunta la URL. ****
+
+-- Modificado del csv original.
+** Tema13_Auxiliar_BankChurners: https://www.kaggle.com/datasets/sakshigoyal7/credit-card-customers
+
+-- Copia del csv original.
+** Tema13_Auxiliar_EcommerceCustomers: https://www.kaggle.com/datasets/srolka/ecommerce-customers
+
+-- Copia del csv original.
+** Tema13_Auxiliar_TallestBuildingsGlobal: https://www.kaggle.com/datasets/axeltorbenson/tallest-buildings-in-the-world?select=tallest_buildings_global.csv
+
+-- Copia del csv original.
+** Tema13_Auxiliar_SenescytBecas2022Febrero: https://datosabiertos.gob.ec/dataset/becas/resource/14afdcf9-3084-4fb4-a832-b16261ac5fbc
+
+-- Copia del csv original.
+** Tema13_Auxiliar_INEC-Matrimonios2020: https://datosabiertos.gob.ec/dataset/registro-matrimonios-divorcios-2020/resource/6f669bb1-bab7-444b-8c64-009ba612ed9f
+
+-- Copia del csv original.
+** Tema13_Auxiliar_SampleSuperstore: https://www.kaggle.com/datasets/roopacalistus/superstore
+
+
+**** Fuentes:
+
+- Kaggle: https://www.kaggle.com/
+
+- Datos Abiertos Ecuador: https://datosabiertos.gob.ec/
